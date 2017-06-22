@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="Photoshop" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Adobe Photoshop CC 2017" />
+    </exec>
+  </tool>
+  <tool name="CSSComb" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nodebrew/current/bin/csscomb" />
+      <option name="PARAMETERS" value="$FilePath$ -t -v" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+  <tool name="CSSComb to Dir" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nodebrew/current/bin/csscomb" />
+      <option name="PARAMETERS" value="&quot;$FileDir$/*.css&quot; -t -v" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
