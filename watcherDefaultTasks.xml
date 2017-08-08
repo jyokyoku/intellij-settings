@@ -26,14 +26,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile /Users/owner/Development/Containers/wp/htdocs/sanbe/wp-content/themes/sanbe $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile /Users/owner/Development/Containers/wp/htdocs/fprise-seminar/wp-content/themes/fprise-seminar $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="$USER_HOME$/Development/Containers/wp/htdocs/sanbe/wp-content/themes/sanbe" />
+      <option name="output" value="$USER_HOME$/Development/Containers/wp/htdocs/fprise-seminar/wp-content/themes/fprise-seminar" />
       <option name="outputFilters">
         <array />
       </option>
@@ -41,7 +41,7 @@
       <option name="program" value="/usr/local/var/rbenv/shims/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/Development/Containers/wp/htdocs/sanbe/wp-content/themes/sanbe" />
+      <option name="workingDir" value="$USER_HOME$/Development/Containers/wp/htdocs/fprise-seminar/wp-content/themes/fprise-seminar" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
