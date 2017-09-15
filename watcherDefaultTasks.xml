@@ -26,22 +26,22 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile D:/Users/Owner/Development/Containers/wp/challenge/wp-content/themes/challenge $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile /Users/owner/Development/Containers/wp/htdocs/challenge/wp-content/themes/challenge $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="D:/Users/Owner/Development/Containers/wp/challenge/wp-content/themes/challenge" />
+      <option name="output" value="$USER_HOME$/Development/Containers/wp/htdocs/challenge/wp-content/themes/challenge" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby24-x64/bin/compass.bat" />
+      <option name="program" value="/usr/local/var/rbenv/shims/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="D:/Users/Owner/Development/Containers/wp/challenge/wp-content/themes/challenge" />
+      <option name="workingDir" value="$USER_HOME$/Development/Containers/wp/htdocs/challenge/wp-content/themes/challenge" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
