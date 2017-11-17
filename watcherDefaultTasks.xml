@@ -83,7 +83,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="-t expanded -m $FileName$ $FileParentDir$/common/$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="-t expanded -m $FileName$ $FileParentDir$/css/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
