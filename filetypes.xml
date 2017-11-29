@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="csv" approved="true" type="CSV" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="3bf374f5dfc54dc6c08c0d7a712053ac" type="PLAIN_TEXT" />
