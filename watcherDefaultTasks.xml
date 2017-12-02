@@ -4,11 +4,11 @@
       <option name="arguments" value="--map --output $FileParentDir$/js/ --compile $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="NEVER" />
+      <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="coffee" />
       <option name="immediateSync" value="false" />
       <option name="name" value="CoffeeScript" />
-      <option name="output" value="$ProjectFileDir$/wp-content/themes/ally/js/$FileNameWithoutExtension$.js:$ProjectFileDir$/wp-content/themes/ally/js/$FileNameWithoutExtension$.js.map" />
+      <option name="output" value="$FileParentDir$/js/$FileNameWithoutExtension$.js:$FileParentDir$/js/$FileNameWithoutExtension$.js.map" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
@@ -26,22 +26,22 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile D:/Users/Owner/Development/Containers/wp/challenge/wp-content/themes/challenge $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile /Users/owner/Development/Containers/static/htdocs/elbram $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="D:/Users/Owner/Development/Containers/wp/challenge/wp-content/themes/challenge" />
+      <option name="output" value="$USER_HOME$/Development/Containers/static/htdocs/elbram" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Ruby24-x64/bin/compass.bat" />
+      <option name="program" value="/usr/local/var/rbenv/shims/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="D:/Users/Owner/Development/Containers/wp/challenge/wp-content/themes/challenge" />
+      <option name="workingDir" value="$USER_HOME$/Development/Containers/static/htdocs/elbram" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
@@ -83,7 +83,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="-t expanded -m $FileName$ $FileParentDir$/css/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
@@ -95,9 +95,9 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/usr/local/var/rbenv/shims/scss" />
+      <option name="program" value="/usr/local/bin/sassc" />
       <option name="scopeName" value="Project Files" />
-      <option name="trackOnlyRoot" value="true" />
+      <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
