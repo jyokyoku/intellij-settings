@@ -32,7 +32,7 @@
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="Compass SCSS" />
       <option name="output" value="$USER_HOME$/Development/Containers/prj.soka/htdocs/wp-content/themes/bunsyu" />
       <option name="outputFilters">
