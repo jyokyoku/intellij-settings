@@ -27,14 +27,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile /Users/owner/Development/Containers/static/htdocs/elbram $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile /Users/owner/Development/Containers/prj.soka/htdocs/wp-content/themes/bunsyu $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="$USER_HOME$/Development/Containers/static/htdocs/elbram" />
+      <option name="output" value="$USER_HOME$/Development/Containers/prj.soka/htdocs/wp-content/themes/bunsyu" />
       <option name="outputFilters">
         <array />
       </option>
@@ -43,7 +43,7 @@
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/Development/Containers/static/htdocs/elbram" />
+      <option name="workingDir" value="$USER_HOME$/Development/Containers/prj.soka/htdocs/wp-content/themes/bunsyu" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
