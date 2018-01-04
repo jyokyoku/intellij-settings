@@ -1,12 +1,7 @@
 <application>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
-  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO">
-    <option name="elementHighlighting" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
 </application>
