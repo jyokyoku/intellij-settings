@@ -3,5 +3,8 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
+  <component name="SqlEditorOptions">
+    <option name="qualificationType" value="On collisions" />
+  </component>
 </application>
