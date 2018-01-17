@@ -20,7 +20,6 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/.nodebrew/current/bin/coffee" />
-      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -40,7 +39,6 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/var/rbenv/shims/compass" />
-      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$USER_HOME$/Development/Containers/prj.soka/htdocs/wp-content/themes/bunsyu" />
@@ -60,7 +58,6 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/var/rbenv/shims/compass" />
-      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="PC" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$USER_HOME$/Development/Sites/wordpress/htdocs/sotoasobi/wp-content/themes/sotoasobi" />
@@ -80,14 +77,13 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="/usr/local/var/rbenv/shims/compass" />
-      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="SP" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$USER_HOME$/Development/Sites/wordpress/htdocs/sotoasobi/wp-content/themes/sotoasobi-sp" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="-t expanded -m $FileName$ $FileParentDir$/css/$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="-t expanded -m $FileName$ $FileParentDir$\css\$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="NEVER" />
@@ -99,8 +95,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/usr/local/bin/sassc" />
-      <option name="runOnExternalChanges" value="true" />
+      <option name="program" value="C:/sassc/sassc.exe" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
