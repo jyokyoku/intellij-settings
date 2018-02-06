@@ -86,7 +86,7 @@
       <option name="workingDir" value="$USER_HOME$/Development/Sites/wordpress/htdocs/sotoasobi/wp-content/themes/sotoasobi-sp" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="-t expanded -m $FileName$ $FileParentDir$/css/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
