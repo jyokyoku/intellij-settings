@@ -2,9 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.o</mask>
       <mask>.</mask>
       <mask>.php</mask>
       <mask>*.pp</mask>
@@ -26,14 +28,15 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
-      <mask>*.html</mask>
       <mask>*.p@php</mask>
       <mask>*.p@ph</mask>
       <mask>*.p@p</mask>
       <mask>*.p@</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
+      <mask>*.css</mask>
       <mask>*.php</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
