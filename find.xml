@@ -13,6 +13,7 @@
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
+      <mask>*.scss</mask>
       <mask>*.ps</mask>
       <mask>*.phs</mask>
       <mask>*.phps</mask>
@@ -31,7 +32,6 @@
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.css</mask>
-      <mask>*.scss</mask>
       <mask>*.php</mask>
       <mask>*.html</mask>
     </recentFileMasks>
