@@ -3,37 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>.</mask>
-      <mask>.php</mask>
-      <mask>*.pp</mask>
-      <mask>*/}</mask>
-      <mask>*/.</mask>
-      <mask>*/</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.ps</mask>
-      <mask>*.phs</mask>
-      <mask>*.phps</mask>
-      <mask>*.＊</mask>
-      <mask>*.*</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.p@php</mask>
-      <mask>*.p@ph</mask>
-      <mask>*.p@p</mask>
-      <mask>*.p@</mask>
-      <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.css</mask>
-      <mask>*.php</mask>
-      <mask>*.html</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.php" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
