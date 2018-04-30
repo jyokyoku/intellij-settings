@@ -8,7 +8,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
     <option name="darkRoundBracketsColors">
@@ -17,7 +17,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
     <option name="lightSquareBracketsColors">
@@ -26,7 +26,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
     <option name="darkSquareBracketsColors">
@@ -35,7 +35,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
     <option name="lightSquigglyBracketsColors">
@@ -44,7 +44,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
     <option name="darkSquigglyBracketsColors">
@@ -53,7 +53,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
     <option name="lightAngleBracketsColor">
@@ -62,7 +62,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
     <option name="darkAngleBracketsColor">
@@ -71,7 +71,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x59a500" />
+        <option value="0x7ae300" />
       </array>
     </option>
   </component>
