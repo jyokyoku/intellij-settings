@@ -6,7 +6,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="darkRoundBracketsColors">
@@ -15,7 +15,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="darkSquareBracketsColors">
@@ -24,7 +24,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="darkSquigglyBracketsColors">
@@ -33,7 +33,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
@@ -44,7 +44,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="lightRoundBracketsColors">
@@ -53,7 +53,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="lightSquareBracketsColors">
@@ -62,7 +62,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="lightSquigglyBracketsColors">
@@ -71,7 +71,7 @@
         <option value="0x43A047" />
         <option value="0x2196F3" />
         <option value="0x088DA5" />
-        <option value="0x7ae300" />
+        <option value="0xFFFFFF" />
       </array>
     </option>
     <option name="version" value="5.0" />
