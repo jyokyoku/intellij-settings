@@ -5,8 +5,8 @@
         <option value="0xE6B422" />
         <option value="0x43A047" />
         <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0x3F51B5" />
+        <option value="0x00897B" />
       </array>
     </option>
     <option name="darkRoundBracketsColors">
@@ -14,64 +14,56 @@
         <option value="0xE6B422" />
         <option value="0x43A047" />
         <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0x3F51B5" />
+        <option value="0x00897B" />
       </array>
     </option>
     <option name="darkSquareBracketsColors">
       <array>
-        <option value="0xE6B422" />
-        <option value="0x43A047" />
-        <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0x33CCFF" />
+        <option value="0xD4E157" />
+        <option value="0x8080FF" />
       </array>
     </option>
     <option name="darkSquigglyBracketsColors">
       <array>
-        <option value="0xE6B422" />
-        <option value="0x43A047" />
-        <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0x1976D2" />
+        <option value="0x8BC34A" />
+        <option value="0xFF9863" />
       </array>
     </option>
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="enableRainbowSquareBrackets" value="false" />
     <option name="lightAngleBracketsColor">
       <array>
-        <option value="0xE6B422" />
-        <option value="0x43A047" />
-        <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0xE66A01" />
+        <option value="0x1B5E20" />
+        <option value="0x006BE7" />
+        <option value="0x283593" />
+        <option value="0x004D40" />
       </array>
     </option>
     <option name="lightRoundBracketsColors">
       <array>
-        <option value="0xE6B422" />
-        <option value="0x43A047" />
-        <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0xE66A01" />
+        <option value="0x1B5E20" />
+        <option value="0x006BE7" />
+        <option value="0x283593" />
+        <option value="0x004D40" />
       </array>
     </option>
     <option name="lightSquareBracketsColors">
       <array>
-        <option value="0xE6B422" />
-        <option value="0x43A047" />
-        <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0x0B9087" />
+        <option value="0x827717" />
+        <option value="0x6444E6" />
       </array>
     </option>
     <option name="lightSquigglyBracketsColors">
       <array>
-        <option value="0xE6B422" />
-        <option value="0x43A047" />
-        <option value="0x2196F3" />
-        <option value="0x088DA5" />
-        <option value="0xFFFFFF" />
+        <option value="0x0057D2" />
+        <option value="0x558B2F" />
+        <option value="0xFF6D27" />
       </array>
     </option>
     <option name="version" value="5.0" />
