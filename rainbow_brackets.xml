@@ -1,11 +1,78 @@
 <application>
   <component name="RainbowSettings">
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
-    <option name="enableRainbowAngleBrackets" value="false" />
-    <option name="enableRainbowRoundBrackets" value="false" />
-    <option name="enableRainbowSquareBrackets" value="false" />
-    <option name="enableRainbowSquigglyBrackets" value="false" />
-    <option name="rainbowEnabled" value="false" />
     <option name="version" value="5.0" />
+    <option name="lightRoundBracketsColors">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
+    <option name="darkRoundBracketsColors">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
+    <option name="lightSquareBracketsColors">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
+    <option name="darkSquareBracketsColors">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
+    <option name="lightSquigglyBracketsColors">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
+    <option name="darkSquigglyBracketsColors">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
+    <option name="lightAngleBracketsColor">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
+    <option name="darkAngleBracketsColor">
+      <array>
+        <option value="0xE6B422" />
+        <option value="0x43A047" />
+        <option value="0x2196F3" />
+        <option value="0x088DA5" />
+        <option value="0x59a500" />
+      </array>
+    </option>
   </component>
 </application>
