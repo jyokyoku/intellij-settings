@@ -19,6 +19,7 @@
       </array>
     </option>
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
-    <option name="version" value="5.0" />
+    <option name="rainbowifyHTMLInsideJS" value="true" />
+    <option name="version" value="5.5" />
   </component>
 </application>
