@@ -19,6 +19,7 @@
       </array>
     </option>
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
+    <option name="enableHighlightCurrentScopeWhenCtrlPressed" value="false" />
     <option name="rainbowifyHTMLInsideJS" value="true" />
     <option name="version" value="5.7.1" />
   </component>
