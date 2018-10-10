@@ -8,6 +8,7 @@
       <mapping pattern="_shoppingPost" type="PLAIN_TEXT" />
       <mapping pattern="_siteLinkButton" type="PLAIN_TEXT" />
       <mapping pattern="_mixin" type="PLAIN_TEXT" />
+      <mapping pattern="_foundation" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
