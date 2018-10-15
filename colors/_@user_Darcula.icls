@@ -1,0 +1,21 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-10-06T16:10:05</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.2.4.0.0</property>
+    <property name="modified">2018-10-06T16:36:35</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="c223cc" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="c223cc" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

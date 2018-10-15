@@ -1,5 +1,8 @@
 <scheme name="PHPStorm Monokai" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Ricty" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -12,6 +15,21 @@
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
   <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="b92000" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="c517c5" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="9833" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="f8f8f0" />
@@ -583,6 +601,26 @@
         <option name="BACKGROUND" value="30322b" />
       </value>
     </option>
+    <option name="EJS_OPEN">
+      <value>
+        <option name="FOREGROUND" value="f4127a" />
+      </value>
+    </option>
+    <option name="EJS_OPEN_EQ">
+      <value>
+        <option name="FOREGROUND" value="f4127a" />
+      </value>
+    </option>
+    <option name="EJS_OPEN_EQ_EQ">
+      <value>
+        <option name="FOREGROUND" value="f4127a" />
+      </value>
+    </option>
+    <option name="EJS_OPEN_EQ_GENERATOR">
+      <value>
+        <option name="FOREGROUND" value="f4127a" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff6767" />
@@ -716,6 +754,9 @@
       <value>
         <option name="FOREGROUND" value="e6db74" />
       </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
     </option>
     <option name="HTML_COMMENT">
       <value>
@@ -862,9 +903,13 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a6da0" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -1160,6 +1205,21 @@
     <option name="RHTML_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="b92000" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="c517c5" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="9833" />
       </value>
     </option>
     <option name="RUBY_BAD_CHARACTER">

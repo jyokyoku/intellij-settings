@@ -10,8 +10,8 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
-    <mask>*.html</mask>
   </component>
 </application>

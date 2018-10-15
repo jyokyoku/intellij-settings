@@ -5,9 +5,12 @@
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern="_layout" type="PLAIN_TEXT" />
       <mapping pattern="_vars" type="PLAIN_TEXT" />
+      <mapping pattern="_body" type="PLAIN_TEXT" />
       <mapping pattern="_shoppingPost" type="PLAIN_TEXT" />
       <mapping pattern="_siteLinkButton" type="PLAIN_TEXT" />
       <mapping pattern="_mixin" type="PLAIN_TEXT" />
+      <mapping pattern="_btn" type="PLAIN_TEXT" />
+      <mapping pattern="_foundation" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
