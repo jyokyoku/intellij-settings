@@ -5,9 +5,10 @@
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern="_layout" type="PLAIN_TEXT" />
       <mapping pattern="_vars" type="PLAIN_TEXT" />
-      <mapping pattern="_shoppingPost" type="PLAIN_TEXT" />
       <mapping pattern="_blogExcerpt__item" type="PLAIN_TEXT" />
       <mapping pattern="_body" type="PLAIN_TEXT" />
+      <mapping pattern="_shoppingPost" type="PLAIN_TEXT" />
+      <mapping pattern="company-message-txt01" type="PLAIN_TEXT" />
       <mapping pattern="_siteLinkButton" type="PLAIN_TEXT" />
       <mapping pattern="_mixin" type="PLAIN_TEXT" />
       <mapping pattern="_topNews__row" type="PLAIN_TEXT" />
