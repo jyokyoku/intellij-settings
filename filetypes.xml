@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern="_layout" type="PLAIN_TEXT" />
       <mapping pattern="_vars" type="PLAIN_TEXT" />
       <mapping pattern="_blogExcerpt__item" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping pattern="_newsBox__item" type="XHTML" />
+      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
     </extensionMap>
   </component>
 </application>
