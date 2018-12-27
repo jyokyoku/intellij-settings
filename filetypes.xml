@@ -14,6 +14,7 @@
       <mapping pattern="_mixin" type="PLAIN_TEXT" />
       <mapping pattern="_topNews__row" type="PLAIN_TEXT" />
       <mapping pattern="_btn" type="PLAIN_TEXT" />
+      <mapping pattern="download-ico01" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="_blogBox__item" type="PLAIN_TEXT" />
       <mapping pattern="_foundation" type="PLAIN_TEXT" />
