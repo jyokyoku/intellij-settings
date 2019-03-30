@@ -58,9 +58,8 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/Python.framework/Versions/3.6/lib/python3.6" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/871351646" />
+        <root url="file://$USER_HOME$/Development/Python/rooter_disconnecter/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/154905282" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -71,9 +70,8 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/Python.framework/Versions/3.6/lib/python3.6" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/871351646" />
+        <root url="file://$USER_HOME$/Development/Python/rooter_disconnecter/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/154905282" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
