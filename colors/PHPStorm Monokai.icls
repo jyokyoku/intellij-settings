@@ -1538,6 +1538,11 @@
         <option name="FOREGROUND" value="ef00ff" />
       </value>
     </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="1e9ce7" />
+      </value>
+    </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="1e9ce7" />
@@ -1551,6 +1556,11 @@
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
         <option name="FOREGROUND" value="9833" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="c517c5" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
