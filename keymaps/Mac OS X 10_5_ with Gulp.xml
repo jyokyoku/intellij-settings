@@ -5,6 +5,9 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
