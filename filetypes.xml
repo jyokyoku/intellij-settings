@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="_layout" type="PLAIN_TEXT" />
+      <mapping pattern=".jsbeautifyrc" type="PLAIN_TEXT" />
       <mapping pattern="_vars" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="_blogExcerpt__item" type="PLAIN_TEXT" />
