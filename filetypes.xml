@@ -18,6 +18,7 @@
       <mapping pattern="_blogBox__item" type="PLAIN_TEXT" />
       <mapping pattern="_foundation" type="PLAIN_TEXT" />
       <mapping pattern="_topCases__item" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="200303" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
