@@ -13,19 +13,19 @@
       <mapping pattern="_siteLinkButton" type="PLAIN_TEXT" />
       <mapping pattern="_mixin" type="PLAIN_TEXT" />
       <mapping pattern="_topNews__row" type="PLAIN_TEXT" />
-      <mapping pattern="_foundation" type="PLAIN_TEXT" />
       <mapping pattern="download-ico01" type="PLAIN_TEXT" />
       <mapping pattern="_blogBox__item" type="PLAIN_TEXT" />
       <mapping pattern="_btn" type="PLAIN_TEXT" />
       <mapping pattern="_topCases__item" type="PLAIN_TEXT" />
+      <mapping pattern="_foundation" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="200303" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="_newsBox__item" type="XHTML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
