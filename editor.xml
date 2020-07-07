@@ -18,4 +18,7 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_ENTITIES" value="false" />
+  </component>
 </application>
